@@ -1,9 +1,18 @@
+body {
+    background-color: rgb(245, 242, 242);
+}
+
 .navbar {
-    margin-top: 5rem;
+    margin-top: 3rem;
 
 }
 
 ul li {
     display: inline-block;
     padding-left: 15px;
+}
+
+#home img {
+    margin-right: 5rem;
+    margin-top: 1rem;
 }
