@@ -20,7 +20,7 @@ h1 {
 }
 
 /* about */
-#about {
+#aboutme {
     width: 100%;
     background-color: white;
     padding: 3rem;
@@ -55,6 +55,11 @@ hr {
     font-size: 110px;
 }
 
-
+.wrapper a {
+    text-decoration: none;
+    margin: 0 30px;
+    position: relative;
+    top: 40px;
+}
 
 /* akhir contact */
