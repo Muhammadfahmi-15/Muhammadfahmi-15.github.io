@@ -22,8 +22,9 @@ h1 {
 /* about */
 #about {
     width: 100%;
-    background-color: white;
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
     padding: 3rem;
+    color: white;
 }
 
 hr {
@@ -31,5 +32,6 @@ hr {
     margin: auto;
     margin-bottom: 20px;
 }
+
 
 /* akhir about */
