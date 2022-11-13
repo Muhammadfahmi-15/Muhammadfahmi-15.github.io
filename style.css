@@ -1,18 +1,20 @@
 body {
     background-color: rgb(245, 242, 242);
+    min-height: 2000px;
 }
 
-.navbar {
-    margin-top: 3rem;
 
+.jumbotron {
+    margin-top: 8rem;
 }
 
-ul li {
-    display: inline-block;
-    padding-left: 15px;
+
+
+
+.jumbotron p {
+    margin-top: 35px;
 }
 
-#home img {
-    margin-right: 5rem;
-    margin-top: 1rem;
+h1 {
+    font-size: 45px;
 }
