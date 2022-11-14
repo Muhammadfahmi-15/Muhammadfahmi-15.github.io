@@ -5,7 +5,12 @@ body {
 
 
 .jumbotron {
-    margin-top: 8rem;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+    color: white;
+
+
 }
 
 
@@ -22,15 +27,16 @@ h1 {
 /* about */
 #aboutme {
     width: 100%;
-    background-color: white;
     padding-top: 2rem;
     padding-bottom: 2rem;
+
 }
 
 hr {
     width: 120px;
     margin: auto;
     margin-bottom: 20px;
+
 }
 
 #aboutme img {
@@ -39,6 +45,22 @@ hr {
 }
 
 /* akhir about */
+#project {
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+
+
+}
+
+#project h2 {
+    color: white;
+}
+
+.putih {
+    border-bottom: 1px solid white;
+    width: 120px;
+    margin: auto;
+    margin-bottom: 20px;
+}
 
 /* award */
 #Award {
@@ -54,7 +76,10 @@ hr {
 
 /* contact */
 #contact {
-    margin: 70px 0;
+    padding: 70px 0;
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+    color: white;
+
 }
 
 #contact h2 {
