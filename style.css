@@ -23,13 +23,19 @@ h1 {
 #aboutme {
     width: 100%;
     background-color: white;
-    padding: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 hr {
     width: 120px;
     margin: auto;
     margin-bottom: 20px;
+}
+
+#aboutme img {
+    position: relative;
+    right: -100px;
 }
 
 /* akhir about */
