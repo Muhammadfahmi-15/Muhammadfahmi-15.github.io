@@ -16,15 +16,19 @@ body {
 
 
 .jumbotron .tulis {
-    padding-top: 3rem;
+    padding-top: 2rem;
+    margin-top: 6rem;
+
 }
 
-.jumbotron p {
+.jumbotron h3 {
     margin-top: 35px;
+    font-style: italic;
 }
 
 h1 {
-    font-size: 45px;
+    font-size: calc(4vw + 13px);
+    margin: 10px auto;
 }
 
 /* about */
@@ -42,10 +46,11 @@ h1 {
 
 hr {
     width: 120px;
-    margin: auto;
-    margin-bottom: 20px;
+    margin: 0 auto;
+
 
 }
+
 
 
 
@@ -68,6 +73,14 @@ hr {
     width: 120px;
     margin: auto;
 
+}
+
+.judul {
+    font-weight: bold;
+}
+
+.explain {
+    text-align: justify;
 }
 
 /* award */
