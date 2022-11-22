@@ -94,9 +94,37 @@ hr {
 
 }
 
-.link:hover {
+.link2 {
     color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 40px;
+
 }
+
+.link3 {
+    color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 100px;
+
+}
+
+
+.link:hover {
+    color: red;
+}
+
+.link2:hover {
+    color: red;
+}
+
+.link3:hover {
+    color: red;
+}
+
 
 
 
