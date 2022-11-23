@@ -1,6 +1,8 @@
+html,
 body {
     background-color: rgb(245, 242, 242);
     overflow-x: hidden;
+    max-width: 100%;
 
 }
 
@@ -39,6 +41,11 @@ h1 {
 
 
 
+}
+
+.inidia {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 #about img {
@@ -83,6 +90,7 @@ hr {
 
 .explain {
     text-align: justify;
+
 }
 
 .link {
